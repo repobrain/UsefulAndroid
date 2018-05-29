@@ -17,5 +17,9 @@ MVP: https://github.com/ribot/android-guidelines/blob/master/architecture_guidel
 
 Step-by-Step, includes suggested reading: https://github.com/adamwulf/app-launch-guide
 
+## Etc.Etc.
+
+Android Studio Keyboard Shortcuts: https://developer.android.com/studio/intro/keyboard-shortcuts
+
 
 
