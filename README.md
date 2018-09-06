@@ -26,12 +26,16 @@ Android Studio Keyboard Shortcuts: https://developer.android.com/studio/intro/ke
 Error: Unsupported method: BaseConfig.getApplicationIdSuffix() 
 
   https://stackoverflow.com/questions/44546849/unsupported-method-baseconfig-getapplicationidsuffix
+  
 Error: Android Gradle 3.0.0-alpha2 plugin, Cannot set the value of read-only property 'outputFile'
 
   https://stackoverflow.com/questions/44239235/android-gradle-3-0-0-alpha2-plugin-cannot-set-the-value-of-read-only-property
+  
 Error: Configuration 'compile' is obsolete and has been replaced with 'implementation'.
 
   https://stackoverflow.com/questions/49567172/i-am-getting-error-configuration-compile-is-obsolete-and-has-been-replaced-wi
+  
+  
 
 
 
