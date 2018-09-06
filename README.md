@@ -31,9 +31,6 @@ https://stackoverflow.com/questions/44239235/android-gradle-3-0-0-alpha2-plugin-
   
 Error: Configuration 'compile' is obsolete and has been replaced with 'implementation'.  
 https://stackoverflow.com/questions/49567172/i-am-getting-error-configuration-compile-is-obsolete-and-has-been-replaced-wi
-  
-  
-
-
+   
 
 
